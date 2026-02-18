@@ -1,5 +1,4 @@
 # Bash-DevOps-scripts
-# Bash DevOps Scripts
 
 This repository contains 5 mini DevOps projects implemented using **Bash scripting**.  
 Perfect for practicing **automation, server monitoring, and system administration tasks**.
